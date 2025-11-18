@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Daily Song Challenge",
+  "description": "A fun and engaging web application that challenges users with daily singing tasks, special missions, and collaborative karaoke sessions with friends, powered by Gemini for dynamic content.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
